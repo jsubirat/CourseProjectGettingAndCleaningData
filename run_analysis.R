@@ -1,8 +1,8 @@
 
 run_analysis <- function() {
   # Step 0: Download and uncompress data to operate with
-  #dataURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-  #download.file(dataURL, destfile = "./getdata-projectfiles-UCI HAR Dataset.zip", method = "curl")
+  dataURL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+  download.file(dataURL, destfile = "./getdata-projectfiles-UCI HAR Dataset.zip", method = "curl")
   unzip("getdata-projectfiles-UCI HAR Dataset.zip", exdir = "data")
   datadir <- "data/UCI HAR Dataset/"
   
