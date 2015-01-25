@@ -1,5 +1,13 @@
 # Code Book for the Getting And Cleaning Data Course (Coursera)
 
+
+## Dataset origin and modifications
+
+The data used to build this dataset was obtained from the following link:  from the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The present dataset has been built by merging the training and test datasets available in the previous file. The values of the variables describing mean or standard deviation values of the original features in the original datasets have been averaged for each subject under study (as specified by the Subject column) and for each activity it carries out (as specifiec by the Activity column). The procedure used to perform this transformation and tidy of the data can be found in file run_analysis.R, in the form of detailed comments throughout the code.
+
+
 ## Feature description
 
 Find below the description of the features captured within this dataset. Note that many feature descriptions, specified as "METRIC"X/Y/Z, actually represent 3 independent features captured for the X, Y and Z axis. The mean values of the described signals have been calculated for each subject (specified by the Subject column) and for each activity (specified by the Activity column) it performs.
