@@ -25,7 +25,9 @@ The implementation of this software has been done using the R programming langua
 
 The programmed script does all the required steps to obtain the tidy dataset, including the downloading of the data to the current working directory. Simply execute the script by executing the following in the R console:
 
+```
 source('run_analysis.R')
 tidy_dataset <- run_analysis()
+```
 
 Now tidy_dataset contains the tidy dataset as required in the instructions of the Course Project.
