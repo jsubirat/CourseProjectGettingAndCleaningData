@@ -13,6 +13,8 @@ Then, it performs several operations in order to combine the different files tha
 4) Appropriately labels the data set with descriptive variable names. 
 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+All this functionality has been implemented in the R file named "run_analysis.R".
+
 
 ## Implementation
 
