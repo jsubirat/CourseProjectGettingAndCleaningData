@@ -30,77 +30,77 @@ Find below the description of the features captured within this dataset. Note th
 * MeantBodyAccMag.mean.. 
 	Mean value of the mean Euclidean norm of the signals MeantBodyAcc.mean...X/Y/Z 	
 * MeantBodyAccMag.std.. 
-	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyAcc.std...X/Y/Z
+	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyAcc.std...X/Y/Z Units: g.
 * MeantGravityAccMag.mean.. 
 	Mean value of the mean Euclidean norm of the signals MeantGravityAcc.mean...X/Y/Z
 * MeantGravityAccMag.std.. 
-	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantGravityAcc.std...X/Y/Z 
+	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantGravityAcc.std...X/Y/Z  Units: g.
 * MeantBodyAccJerkMag.mean.. 
 	Mean value of the mean Euclidean norm of the signals MeantBodyAccJerk.mean...X/Y/Z 
 * MeantBodyAccJerkMag.std.. 
-	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyAccJerk.std...X/Y/Z 
+	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyAccJerk.std...X/Y/Z  Units: g.
 
 * MeantBodyGyroMag.mean.. 
 	Mean value of the mean Euclidean norm of the signals MeantBodyGyro.mean...X/Y/Z 
 * MeantBodyGyroMag.std.. 
-	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyGyro.std...X/Y/Z 
+	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyGyro.std...X/Y/Z  Units: rad/s.
 * MeantBodyGyroJerkMag.mean.. 
 	Mean value of the mean Euclidean norm of the signals MeantBodyGyroJerk.mean...X 
 * MeantBodyGyroJerkMag.std.. 
-	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyGyroJerk.std...X 
+	Mean value of the standard deviation on the calculation of the Euclidean norm of the signals MeantBodyGyroJerk.std...X  Units: rad/s.
 
 * MeanfBodyAcc.mean...X/Y/Z 
-	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAcc.mean...X/Y/Z 
+	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAcc.mean...X/Y/Z Units: Hz
 
 * MeanfBodyAcc.std...X/Y/Z 
-	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyAcc.std...X/Y/Z
+	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyAcc.std...X/Y/Z Units: Hz
 
 * MeanfBodyAcc.meanFreq...X/Y/Z 
-	Mean value of the mean frequency for MeanfBodyAcc
+	Mean value of the mean frequency for MeanfBodyAcc Units: Hz
 
 * MeanfBodyAccJerk.mean...X/Y/Z 
-	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAccJerk.mean...X/Y/Z 
+	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAccJerk.mean...X/Y/Z  Units: Hz
 
 * MeanfBodyAccJerk.std...X/Y/Z 
-	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeanfBodyAccJerk.std...X/Y/Z 
+	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeanfBodyAccJerk.std...X/Y/Z  Units: Hz
 
 * MeanfBodyAccJerk.meanFreq...X/Y/Z 
-	Mean value of the mean frequency for MeanfBodyAccJerk
+	Mean value of the mean frequency for MeanfBodyAccJerk Units: Hz
 
 * MeanfBodyGyro.mean...X/Y/Z 
-	Mean value of the mean Fast Fourier Transform of the signals MeantBodyGyro.mean...X/Y/Z 
+	Mean value of the mean Fast Fourier Transform of the signals MeantBodyGyro.mean...X/Y/Z  Units: Hz
 
 * MeanfBodyGyro.std...X/Y/Z 
-	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyGyro.std...X/Y/Z 
+	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyGyro.std...X/Y/Z  Units: Hz
 
 * MeanfBodyGyro.meanFreq...X/Y/Z 
-	Mean value of the mean frequency for MeanfBodyGyro
+	Mean value of the mean frequency for MeanfBodyGyro Units: Hz
 
 * MeanfBodyAccMag.mean.. 
-	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAccMag.mean..
+	Mean value of the mean Fast Fourier Transform of the signals MeantBodyAccMag.mean.. Units: Hz
 * MeanfBodyAccMag.std.. 
-	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyAccMag.std.. 
+	Mean value of the standard deviation of the  Fast Fourier Transform of the signals MeantBodyAccMag.std..  Units: Hz
 * MeanfBodyAccMag.meanFreq.. 
-	Mean value of the mean frequency for MeanfBodyAccMag
+	Mean value of the mean frequency for MeanfBodyAccMag Units: Hz
 * MeanfBodyBodyAccJerkMag.mean.. 
-	Mean value of the mean Euclidean norm of the signals MeantBodyAcc.mean...X/Y/Z 	
-MeanfBodyBodyAccJerkMag.std.. 
-	
-MeanfBodyBodyAccJerkMag.meanFreq.. 
-	
+	Mean value of the mean Euclidean norm of the signals MeantBodyAcc.mean...X/Y/Z 	 Units: Hz
+* MeanfBodyBodyAccJerkMag.std.. 
+	Mean value of the standard devuation Euclidean norm of the signals MeanfBodyBodyAccJerk.std..X/Y/Z Units: Hz
+* MeanfBodyBodyAccJerkMag.meanFreq.. 
+	Mean value of the mean Euclidean norm of the signals MeanfBodyBodyAccJerkMag.meanFreq..X/Y/Z  Units: Hz	
 * MeanfBodyBodyGyroMag.mean.. 
-	Mean value of the mean Euclidean norm of the signals MeanfBodyBodyGyro.mean..X/Y/Z 
-MeanfBodyBodyGyroMag.std.. 
-	
-MeanfBodyBodyGyroMag.meanFreq.. 
-	
+	Mean value of the mean Euclidean norm of the signals MeanfBodyBodyGyro.mean..X/Y/Z  Units: Hz
+* MeanfBodyBodyGyroMag.std.. 
+	Mean value of the standard devuation Euclidean norm of the signals MeanfBodyBodyGyro.std..X/Y/Z  Units: Hz	
+* MeanfBodyBodyGyroMag.meanFreq.. 
+	Mean value of the mean frequency for MeanfBodyBodyGyroMag Units: Hz
 * MeanfBodyBodyGyroJerkMag.mean.. 
-	Mean value of the mean Euclidean norm of the signals MeanfBodyBodyGyroJerk.mean.. X/Y/Z 	
-MeanfBodyBodyGyroJerkMag.std.. 
-
-MeanfBodyBodyGyroJerkMag.meanFreq.. 
-	
-Subject 
+	Mean value of the mean Euclidean norm of the signals MeanfBodyBodyGyroJerk.mean.. X/Y/Z  Units: Hz	
+* MeanfBodyBodyGyroJerkMag.std.. 
+	Mean value of the standard devuation Euclidean norm of the signals MeanfBodyBodyGyroJerk.std..X/Y/Z  Units: Hz	
+* MeanfBodyBodyGyroJerkMag.meanFreq.. 
+	Mean value of the mean frequency for MeanfBodyBodyGyroJerkMag Units: Hz
+* Subject 
 	Subject carrying out the activity. Range: [1, 30]
-Activity 
+* Activity 
 	Activity labels indicating the nature of the activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
